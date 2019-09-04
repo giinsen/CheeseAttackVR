@@ -6,6 +6,9 @@
 [Bb]uild
 /[Bb]uilds/
 /[Ll]ibrary/
+/Assets/Oculus/
+Assets/Oculus/
+
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
